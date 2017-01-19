@@ -2,7 +2,7 @@
 
 ## Table of condent
 * **[Introduction](#introduction)**
-* **[Document segmentatio](#document-image-segmentation)**
+* **[Document segmentation](#document-image-segmentation)**
 
 ## Indroduction
 
