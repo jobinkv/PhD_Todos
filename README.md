@@ -14,6 +14,7 @@ In my PhD I am mainly focusing three problems they are:
 
 - [x] Write code for deep feature based segmentation and put it for running.(19/Jan).
 - [ ] Get the result with other features like SIFT SURF HOG LBP 
+- [ ] Run the [work](https://github.com/HyeonwooNoh/DeconvNet) at atom need to check.
 
 ## Document image segmentation
 
