@@ -3,6 +3,7 @@
 ## Table of condent
 * **[Introduction](#introduction)**
 * **[Document segmentation](#document-image-segmentation)**
+* **[Current work in progress](#current-work-in-progress)
 
 ## Indroduction
 
@@ -21,6 +22,15 @@ In my PhD I am mainly focusing three problems they are:
 
 ### Conclusion
 
+## Current work in progress
 
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [x] list syntax required (any
+unordered or ordered list
+supported)
 
 
