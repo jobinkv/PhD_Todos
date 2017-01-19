@@ -10,6 +10,11 @@
 This file is to monitor and guide my PhD work at IIIT Hyderabad
 In my PhD I am mainly focusing three problems they are:
 
+## Current work in progress
+
+- [x] Write code for deep feature based segmentation and put it for running.(19/Jan).
+- [ ] Get the result with other features like SIFT SURF HOG LBP 
+
 ## Document image segmentation
 
 ### Problem statement
@@ -22,15 +27,6 @@ In my PhD I am mainly focusing three problems they are:
 
 ### Conclusion
 
-## Current work in progress
 
-- [x] Write code for deep feature based segmentation and put it for running.(19/Jan).
-- [ ] Get the result with other features like SIFT SURF HOG LBP 
-- [x] @mentions, #refs, [links](),
-**formatting**, and <del>tags</del>
-supported
-- [x] list syntax required (any
-unordered or ordered list
-supported)
 
 
