@@ -3,7 +3,7 @@
 ## Table of condent
 * **[Introduction](#introduction)**
 * **[Document segmentation](#document-image-segmentation)**
-* **[Current work in progress](#current-work-in-progress)
+* **[Current work in progress](#current-work-in-progress)**
 
 ## Indroduction
 
@@ -24,8 +24,8 @@ In my PhD I am mainly focusing three problems they are:
 
 ## Current work in progress
 
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Write code for deep feature based segmentation and put it for running.(19/Jan).
+- [ ] Get the result with other features like SIFT SURF HOG LBP 
 - [x] @mentions, #refs, [links](),
 **formatting**, and <del>tags</del>
 supported
