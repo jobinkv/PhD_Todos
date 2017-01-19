@@ -13,6 +13,8 @@ In my PhD I am mainly focusing three problems they are:
 ## Current work in progress
 
 - [x] Write code for deep feature based segmentation and put it for running.(19/Jan).
+      - [ ] Check the results and report
+      - [ ] Do the parameter tweaking
 - [ ] Get the result with other features like SIFT SURF HOG LBP 
 - [ ] Run the [work](https://github.com/HyeonwooNoh/DeconvNet) at atom need to check.
 
