@@ -18,6 +18,7 @@ In my PhD I am mainly focusing three problems they are:
       - [ ] Implement the equation $ \frac{a}{b}$ $$display$$
 - [ ] Get the result with other features like SIFT SURF HOG LBP 
 - [ ] Run the [work](https://github.com/HyeonwooNoh/DeconvNet) at atom need to check.
+      - [x] Status (Because of the caffe instalation issue the process is in hold)
 
 ## Document image segmentation
 
