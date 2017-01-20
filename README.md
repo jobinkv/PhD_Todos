@@ -13,7 +13,7 @@ In my PhD I am mainly focusing three problems they are:
 ## Current work in progress
 
 - [x] Write code for deep feature based segmentation and put it for running.(19/Jan). Insprided from [link](https://arxiv.org/pdf/1411.6836v1.pdf)
-      - [ ] Check the results and report
+      - [X] Checked the results and find all image are segment as a background! :(
       - [ ] Do the parameter tweaking
       - [ ] Implement the equation $ \frac{a}{b}$ $$display$$
 - [ ] Get the result with other features like SIFT SURF HOG LBP 
