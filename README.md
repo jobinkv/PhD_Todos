@@ -27,7 +27,25 @@ In my PhD I am mainly focusing three problems they are:
       - [x] Status (Because of the caffe instalation issue the process is in hold)
 
 ## Need to fix items
-- [ ] Running multiple versions of opencv in PC
+- [x] Running multiple versions of opencv in PC
+For installed version
+```bash
+g++ opencvtest.cpp -o test `pkg-config --cflags opencv` 
+```
+For older version
+```bash
+PROJECT(test)
+SET(CMAKE_BUILD_TYPE Release)
+CMAKE_MINIMUM_REQUIRED( VERSION 2.6 )
+ADD_DEFINITIONS(-D CPU_ONLY)
+LINK_DIRECTORIES(/home/jobin/installs/opencv_2.4.8/lib)
+INCLUDE_DIRECTORIES(/home/jobin/installs/opencv_2.4.8/include)
+ADD_EXECUTABLE(out opencvtest.cpp)
+TARGET_LINK_LIBRARIES(out)
+
+
+```
+
 
 ## Document image segmentation
 
