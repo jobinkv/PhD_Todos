@@ -29,11 +29,11 @@ In my PhD I am mainly focusing three problems they are:
 ## Need to fix items
 - [x] Running multiple versions of opencv in PC
 More reference from [link](http://code.litomisky.com/2014/03/09/how-to-have-multiple-versions-of-the-same-library-side-by-side/)
-For installed version
+#### For installed version
 ```bash
 g++ opencvtest.cpp -o test `pkg-config --cflags opencv` 
 ```
-For older version
+#### For older version
 ```bash
 PROJECT(test)
 SET(CMAKE_BUILD_TYPE Release)
