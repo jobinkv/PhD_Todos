@@ -20,6 +20,9 @@ In my PhD I am mainly focusing three problems they are:
 - [ ] Run the [work](https://github.com/HyeonwooNoh/DeconvNet) at atom need to check.
       - [x] Status (Because of the caffe instalation issue the process is in hold)
 
+## Need to fix items
+- [ ] Running multiple versions of opencv in PC
+
 ## Document image segmentation
 
 ### Problem statement
