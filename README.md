@@ -17,8 +17,13 @@ In my PhD I am mainly focusing three problems they are:
       - [ ] Do the parameter tweaking
       - [x] Rerun the code with 50 patch size and 7 training image so that the number of sample is grater than the feature dimensuion 4096.
       - [x] Check the above!
-            * Still it is giving the same wrong output as above :(
+      
+      * Still it is giving the same wrong output as above :(*
+      
       - [ ] Remove the L2Normalization part and run!
+      - [ ] Do the feature data visualization and figure out the issues
+      - [ ] Save the feature vector as csv and visualize using tsne
+      - [ ] 
       
             
 - [ ] Get the result with other features like SIFT SURF HOG LBP 
@@ -26,7 +31,7 @@ In my PhD I am mainly focusing three problems they are:
 ## My on going experiments
 - [ ] Run the [work](https://github.com/mcimpoi/deep-fbanks) deep-filter banks. 
 - [ ] Run the [work](https://github.com/HyeonwooNoh/DeconvNet) at atom need to check.
-- [ ] 
+- [ ] Installing cuda locally in atom 
       - [x] Status (Because of the caffe instalation issue the process is in hold)
 
 ## Need to fix items
