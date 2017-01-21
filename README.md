@@ -16,7 +16,10 @@ In my PhD I am mainly focusing three problems they are:
       - [X] Checked the results and find all image are segment as a background! :(
       - [ ] Do the parameter tweaking
       - [x] Rerun the code with 50 patch size and 7 training image so that the number of sample is grater than the feature dimensuion 4096.
-      - [ ] Check the above!
+      - [x] Check the above!
+            * Still it is giving the same wrong output as above :(
+      - [ ] Remove the L2Normalization part and run!
+      
             
 - [ ] Get the result with other features like SIFT SURF HOG LBP 
 
