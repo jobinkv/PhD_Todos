@@ -56,6 +56,11 @@ TARGET_LINK_LIBRARIES(out)
 
 
 ```
+OR
+``` bash
+  3 export LD_LIBRARY_PATH=/home/jobin/installs/opencv_2.4.8/lib
+  4 g++ -v -Wall -o main main.cpp -I/home/jobin/installs/opencv_2.4.8/include/opencv -I/home/jobin/installs/opencv_2.4.8/include -L /home/jobin/ins    talls/opencv_2.4.8/lib -Wl,--start-group -lopencv_shape -lopencv_stitching -lopencv_objdetect -lopencv_superres -lopencv_videostab -lopencv_cal    ib3d -lopencv_features2d -lopencv_highgui -lopencv_videoio -lopencv_imgcodecs -lopencv_video -lopencv_photo -lopencv_ml -lopencv_imgproc -lopen    cv_flann -lopencv_core -Wl,--end-group
+```
 
 
 ## Document image segmentation
