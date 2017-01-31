@@ -10,6 +10,12 @@
 This file is to monitor and guide my PhD work at IIIT Hyderabad
 In my PhD I am mainly focusing three problems they are:
 
+## Inspired Idead from the workshop
+- [ ] Implement the multi scale technique by Bhabatosh Chanda
+- [ ] Register IAPR TC11 
+- [ ] Implement the Marcus Liwicki [work](https://github.com/seuretm/N-light-N)
+
+
 ## Current work in progress
 
 - [x] Write code for deep feature based segmentation and put it for running.(19/Jan). Insprided from [link](https://arxiv.org/pdf/1411.6836v1.pdf)
