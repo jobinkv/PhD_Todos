@@ -15,7 +15,13 @@ In my PhD I am mainly focusing three problems they are:
 - [ ] Register IAPR TC11 
 - [ ] Implement the Marcus Liwicki [work](https://github.com/seuretm/N-light-N)
 
-
+## (2/2/17 ocr meeting todo)
+- [ ] Get a metadata from the image. the metadata could be:
+      - [ ] Color page
+      - [ ] Monochrome
+      - [ ] Number of columns
+      - [ ] Graphics is there or not
+      - [ ] Dpi of the image
 ## Current work in progress
 
 - [x] Write code for deep feature based segmentation and put it for running.(19/Jan). Insprided from [link](https://arxiv.org/pdf/1411.6836v1.pdf)
