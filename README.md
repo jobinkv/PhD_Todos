@@ -11,7 +11,7 @@ This file is to monitor and guide my PhD work at IIIT Hyderabad
 In my PhD I am mainly focusing three problems they are:
 
 ## Inspired Ideas from the [workshop](http://cvit.iiit.ac.in/SSDA/)
-- [ ] Implement the multi scale technique by Bhabatosh Chanda
+- [ ] Implement the multi scale technique by Bhabatosh Chanda [link](https://cs.stanford.edu/~acoates/papers/wangwucoatesng_icpr2012.pdf)
 - [ ] Register IAPR TC11 
 - [ ] Implement the Marcus Liwicki [work](https://github.com/seuretm/N-light-N)
 
