@@ -22,6 +22,8 @@ In my PhD I am mainly focusing three problems they are:
       - [ ] Number of columns
       - [ ] Graphics is there or not
       - [ ] Dpi of the image
+      - [ ] Half tone images
+
 ## Current work in progress
 
 - [x] Write code for deep feature based segmentation and put it for running.(19/Jan). Insprided from [link](https://arxiv.org/pdf/1411.6836v1.pdf)
