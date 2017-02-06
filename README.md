@@ -37,7 +37,11 @@ In my PhD I am mainly focusing three problems they are:
       - [ ] Remove the L2Normalization part and run!
       - [ ] Do the feature data visualization and figure out the issues
       - [ ] Save the feature vector as csv and visualize using tsne
-      - [ ] 
+      - [ ] The analysis part is going on
+- [ ]  The segmentation is implement through the original [code](https://github.com/mcimpoi/deep-fbanks) given by the author.
+- [ ] Run the code.
+- [ ] Learn the experiment
+- [ ] Try with our data.
       
             
 - [ ] Get the result with other features like SIFT SURF HOG LBP 
