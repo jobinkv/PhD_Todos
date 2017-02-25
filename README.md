@@ -44,7 +44,7 @@ In my PhD I am mainly focusing three problems they are:
       - [x] Try with our data.
 - [ ] Analyse the result more carefull
       - [x] Remove the 4th label
-      - [x] Shufle/random section of the patch set.
+      - [x] Shufle/random selection of the patch set.
       - [ ] Vary the patch size for each label and plot the graph.
       - [ ] Report it on a new webpage.
       
