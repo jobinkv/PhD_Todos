@@ -10,7 +10,7 @@
 
 ## Indroduction
 This work focus on document image segmentation and layout analysis. 
- ## Problem statement
+## Problem statement
  We consider the segmentation as a pixel classification problem.
 Each pixel is represented by a feature vector. By training a classifier with the features, we classify each pixel into one of the four classes: Text, Graphics and Background
 We are experimenting to find the appropriate feature for document images.
