@@ -31,7 +31,7 @@ features namely FC-CNN and FV-CNN, which are explained in [1].
 
 Both descriptors are based on the same CNN features [2] 
 obtained from an off-the-shelf CNN pre-trained on the ImageNet ILSVRC 2012 data.
-The architecture of the CNN can be found **[here](#https://www.google.com/url?q=http%3A%2F%2Fwww.vlfeat.org%2Fmatconvnet%2Fmodels%2Fimagenet-vgg-m.svg)**.
+The architecture of the CNN can be found **[here](# https://www.google.com/url?q=http%3A%2F%2Fwww.vlfeat.org%2Fmatconvnet%2Fmodels%2Fimagenet-vgg-m.svg)**.
 ### The FC-CNN features
 The FC-CNN descriptor is obtained by extracting as features the output of the penultimate Fully-Connected (FC) layer of a CNN, including the non-linear gating function, 
 applied to the input image. The feature dimension is 4096.
